@@ -2,7 +2,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div>
+    <div  className='bg-white'>
          <div className='flex justify-center mt-20'>
 <img className='w-60' src="../busy.gif" alt="" />
     </div>
